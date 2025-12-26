@@ -59,4 +59,4 @@ FOOD SHARE
     👨‍💻 Backend: Firebase / Node.js.
     👨‍💻 Database: Firestore / MySQL.
     👨‍💻 Maps: Google Maps API.
-    👨‍💻 Notifications: Firebase Cloud Messaging.
+    👨‍💻 Notifications: Firebase Cloud           Messaging.
